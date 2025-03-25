@@ -23,13 +23,13 @@ Me gusta estar resolver problemas y adquirir nuevos conocimiento con cada uno de
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
-    <img decoding="async" src="https://www.pontia.tech/wp-content/uploads/2023/10/python.jpg" width="300" alt="python"/>
+    <img decoding="async" src="https://www.pontia.tech/wp-content/uploads/2023/10/python.jpg" width="150" alt="python"/>
   </a>
-    <img decoding="async" src="https://www.pontia.tech/wp-content/uploads/2023/10/sql.jpg" width="300" alt="sql"/>
+    <img decoding="async" src="https://www.pontia.tech/wp-content/uploads/2023/10/sql.jpg" width="150" alt="sql"/>
   </a>
- <img decoding="async" src="https://www.pontia.tech/wp-content/uploads/2023/10/jupyter.jpg" width="300" alt="jupyter"/>
+ <img decoding="async" src="https://www.pontia.tech/wp-content/uploads/2023/10/jupyter.jpg" width="150" alt="jupyter"/>
   </a>
- <img decoding="async" src="https://www.pontia.tech/wp-content/uploads/2023/10/scikit-learn.jpg" width="300" alt="scikitlearn"/>
+ <img decoding="async" src="https://www.pontia.tech/wp-content/uploads/2023/10/scikit-learn.jpg" width="150" alt="scikitlearn"/>
   </a>
 
 </div>
