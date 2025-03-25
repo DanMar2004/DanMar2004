@@ -3,11 +3,8 @@
 </div>
 
 
-<div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/daniel-martinez-mendez-5b0600179" 
-     style="padding: 10px 20px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;">
-    LinkedIn
-  </a>
+<div id="header" align="center">
+  <img decoding="async" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/daniel-martinez-mendez-5b0600179"/>
 </div>
 
 <h1>
