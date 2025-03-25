@@ -20,7 +20,7 @@ Me gusta resolver problemas y adquirir nuevos conocimiento con cada uno de ellos
 
 * Tengo experiencia en la industria metalmecanica donde desarrolle proyectos para la produccion de piezas para maquinas hidraulicas, electricas y neumaticas en lineas de produccion alimenticias como Dr.Oetker(Gelatinas D'Gari), lineas de produccion para autopartes con procesos de rolado, soldadura y corte laser.
 * Estoy terminando un Bootcamp Tecnologico en Ciencia de datos donde he podido desarrollar nuevas habilidades como Python, SQL, Analisis exploratorio y Estadistico, asi como generar Modelos de Machine Learning para regresion y clasificacion.
-* Me gusta desarrollar nuevas ideas, probarla, mejorarlas e implementarlas en diferentes procesos dentro de las empresas.
+* Me gusta desarrollar nuevas ideas, probarlas, mejorarlas e implementarlas en diferentes procesos dentro de una empresa.
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
